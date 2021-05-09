@@ -5,9 +5,9 @@ In current situation of covid it is very difficult to get verified COVID resourc
 javascript,node js,selenium
 
 # website-used
-https://www.financialexpress.com/lifestyle/health
-https://delhifightscorona.in
-https://www.covidhelp.enactusnsut.com
+https://www.financialexpress.com/lifestyle/health,
+https://delhifightscorona.in,
+https://www.covidhelp.enactusnsut.com,
 https://www.cowin.gov.in/home
 
 
