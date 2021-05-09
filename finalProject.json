@@ -1,0 +1,451 @@
+{
+    "covid-headlines": {
+        "1": "Coronavirus in India Live News: ‘Corona Curfew’ in Jammu & Kashmir extended till May 17; CM Kejriwal extends lockdown in Delhi by a week; check details",
+        "2": "India records 4,03,738 new COVID-19 cases, 2,42,362 deaths",
+        "3": "Ambulance rates capped in Noida; Rs 1,000 for 10 km those without oxygen support",
+        "4": "Supreme Court sets up 12-member National Task Force to ensure oxygen supply",
+        "5": "Tech transfers, supply of materials must to scale up vaccine production: Bharat Biotech joint MD"
+    },
+    "covid-stats-delhi": {
+        "Total": "1,212,989",
+        "New Today": "18,043",
+        "Active Cases": "89,592",
+        "Recovered": "1,105,983",
+        "Deaths": "17,414",
+        "Tests Per Million": "913,926"
+    },
+    "plasma-availability": [
+        {
+            "status": "Available in Indore. POC assisting with Oxygen Cylinders, Beds and Plasma. Whatsapp requirements regularly.",
+            "contact-no": "8109225784"
+        },
+        {
+            "status": "Available in Kolkata for all blood groups. Whatsapp Prateek Jain for the same.",
+            "contact-no": "9903699009"
+        },
+        {
+            "status": "Available at Rotary Blood Bank, Noida for all blood groups. Contact Ravi Chopra for the same.",
+            "contact-no": "9810024272"
+        },
+        {
+            "status": "Kab Welfare Foundation- For all blood groups.",
+            "contact-no": "9810063261"
+        },
+        {
+            "status": "ABVIMS, Dr Ram Manohar Lohia Hospital Email: drchaudharyk@yahoo.co.in",
+            "contact-no": "1123404286"
+        },
+        {
+            "status": "Available for all blood groups.",
+            "contact-no": "9625000788"
+        }
+    ],
+    "remdesevir/favipiravir-availability": [
+        {
+            "status": "Injection available in Delhi. Whatsapp for the same.",
+            "contact-no": "9811529976"
+        },
+        {
+            "status": "Remdesivir, Tocilizumab, Favipiraivr, Oximeter, etc. EMAIL- ravi.ravispecialitiespharma@gmail.com",
+            "contact-no": "7502669136"
+        },
+        {
+            "status": "Tablets available at Anand Drug Store (limited stock)",
+            "contact-no": "9994330921"
+        },
+        {
+            "status": "Tablets available at Prescribe Pharmacy (Delhi)",
+            "contact-no": "9310353839"
+        },
+        {
+            "status": "Tablets available at Club Pharmacy (Gurugram)",
+            "contact-no": "7982386649"
+        },
+        {
+            "status": "Bevacizumab Injection available - 100mg/4mL and 400mg/16mL . Concentrated Solutions for intravenous infusion . Price - Both available at MRP",
+            "contact-no": "8826901653"
+        },
+        {
+            "status": "Favipair 400mg (substitute of fabiflu), ivermectin, medrol substitute available, doxycycline, zincovit multivitamin tablet, vitamin c available on MRP.",
+            "contact-no": "8130184210"
+        },
+        {
+            "status": "Remdesivir will be available on registration. Oxygen supply is for 24 hours unless the stock exhausts. Location: Krishna Market , Lajpat Nagar Gurudwara Whatsapp if calls are not being responded to.",
+            "contact-no": "8376033845"
+        },
+        {
+            "status": "Available in New Delhi. POC providing FABIFLU PULSE OXIMETER IVERMECTIN 6mg and 12mg MEFTAL FORTE 500 BUDECORT 0.5 AND 1mg Respules OXYGEN CANS OXY99 Cans- 6 litre MEDROL Alternative in 4,8 and 16mg PPE KITS Kits & Individual Gowns Address- SHOP NO.4, DEFENCE COLONY MAIN MARKET NEW DELHI- 110024",
+            "contact-no": "9408135144"
+        },
+        {
+            "status": "Favipiravir 400 , ivermectin and other medicines available",
+            "contact-no": "9811040823"
+        },
+        {
+            "status": "Except injections, all drugs available at Jhankar Chemist, Jangpura https://maps.app.goo.gl/Tn6hFq8b9PpnSKTd6",
+            "contact-no": "9910160011"
+        },
+        {
+            "status": "Shop No. 37-A/ S, Safdarjung Hospital, Gate No. 2, Sri Aurobindo Marg, Opportunity AIIMS Main Gate, New Delhi, Delhi 110029",
+            "contact-no": "9868610782"
+        },
+        {
+            "status": "Naveda Drug House in Rohini Sector 8 has Fabiflu available. Call to enquire about other drugs (subject to availibility)",
+            "contact-no": "629159065"
+        },
+        {
+            "status": "India Medical Centre - Home delivery of medicines, pay on the spot - delivers in Ballygunge, Gariahat, Park Street, Kalikapur and adjoining areas.",
+            "contact-no": "7044224435"
+        },
+        {
+            "status": "Available in 400mg & 800mg.",
+            "contact-no": "8697172792"
+        },
+        {
+            "status": "Malik International Pharmaceuticals, Prescription Required Interferon alfa 2, faviparavir/fabiflu, methyl prednisolone, zincovit, limcee, pantoprazole 40 mg, ivermectin 12, povidone iodine, Inj bevacizumab 100mg and 400mg, adalimumab 40 mg",
+            "contact-no": "9818104833"
+        }
+    ],
+    "oxygen-bed-availability": [
+        {
+            "Hospital-name": "Delhi Govt Lok Nayak Hospital",
+            "Available-beds": "95"
+        },
+        {
+            "Hospital-name": "Delhi Govt GTB Hospital",
+            "Available-beds": "73"
+        },
+        {
+            "Hospital-name": "Central Govt Sardar Vallabhbhai Patel Covid hospital (DRDO)",
+            "Available-beds": "70"
+        },
+        {
+            "Hospital-name": "Delhi Govt Dr Baba Saheb Ambedkar Hospital",
+            "Available-beds": "13"
+        },
+        {
+            "Hospital-name": "Delhi Govt Rajeev Gandhi Super Speciality Hospital",
+            "Available-beds": "18"
+        },
+        {
+            "Hospital-name": "Central Govt Ram Manohar Lohia Hospital",
+            "Available-beds": "37"
+        },
+        {
+            "Hospital-name": "Central Govt Safdarjung Hospital",
+            "Available-beds": "86"
+        },
+        {
+            "Hospital-name": "Delhi Govt Ambedkar Nagar hospital",
+            "Available-beds": "13"
+        },
+        {
+            "Hospital-name": "Central Govt LHMC",
+            "Available-beds": "36"
+        },
+        {
+            "Hospital-name": "Central Govt AIIMS, Trauma Delhi",
+            "Available-beds": "8"
+        },
+        {
+            "Hospital-name": "Delhi Govt Deep Chand Bandhu",
+            "Available-beds": "5"
+        },
+        {
+            "Hospital-name": "Central Govt ESIC hospital Okhla",
+            "Available-beds": "50"
+        },
+        {
+            "Hospital-name": "Delhi Govt Deen Dayal Upadhyay hospital",
+            "Available-beds": "18"
+        },
+        {
+            "Hospital-name": "Central Govt Northern Railway",
+            "Available-beds": "8"
+        },
+        {
+            "Hospital-name": "Delhi Govt GURU NANAK EYE CENTRE ( ANNEXED TO LOK NAYAK HOSPITAL)",
+            "Available-beds": "149"
+        },
+        {
+            "Hospital-name": "Delhi Govt Satyawati Harishchand Hsopital",
+            "Available-beds": "50"
+        },
+        {
+            "Hospital-name": "Central Govt AIIMS Main Delhi",
+            "Available-beds": "60"
+        },
+        {
+            "Hospital-name": "Delhi Govt Sanjay Gandhi Memorial Hospital",
+            "Available-beds": "25"
+        },
+        {
+            "Hospital-name": "Delhi Govt Acharyashree Bhikshu Govt. Hospital",
+            "Available-beds": "60"
+        },
+        {
+            "Hospital-name": "Delhi Govt Rajan Babu Institute of Pulmonary Medicine and tuberculosis",
+            "Available-beds": "15"
+        },
+        {
+            "Hospital-name": "Central Govt National Institute of TB and Respiratory Diseases (LRS TB)",
+            "Available-beds": "26"
+        },
+        {
+            "Hospital-name": "Central Govt ESIC Hospital Jhilmil",
+            "Available-beds": "6"
+        },
+        {
+            "Hospital-name": "Pvt MAX SS HOSPITAL, PATPARGANJ",
+            "Available-beds": "22"
+        },
+        {
+            "Hospital-name": "Pvt St. Stephens Hospital, Tis Hazari",
+            "Available-beds": "74"
+        },
+        {
+            "Hospital-name": "Pvt BLK Hospital, Pusa Road",
+            "Available-beds": "51"
+        },
+        {
+            "Hospital-name": "Pvt Max East/West Block",
+            "Available-beds": "40"
+        },
+        {
+            "Hospital-name": "Pvt Maharaja Agrasen Hospital, Punjabi Bagh",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt Max Smart Gujarmal Modi hospital ,Saket",
+            "Available-beds": "16"
+        },
+        {
+            "Hospital-name": "Pvt Fortis Hospital, Shalimar Bagh",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt Pushpawati Singhania Hospital, Saket",
+            "Available-beds": "22"
+        },
+        {
+            "Hospital-name": "Pvt Metro Hospital, Preet Vihar",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt Sir Ganga Ram City Hospital",
+            "Available-beds": "6"
+        },
+        {
+            "Hospital-name": "Pvt NKS Hospital, Gulabi Bagh",
+            "Available-beds": "35"
+        },
+        {
+            "Hospital-name": "Pvt Bhagwati Hospital, Rohini",
+            "Available-beds": "12"
+        },
+        {
+            "Hospital-name": "Pvt HAHC Hospital, Hamdard Nagar",
+            "Available-beds": "19"
+        },
+        {
+            "Hospital-name": "Pvt Medeor Hospital, Qutab Instl. Area",
+            "Available-beds": "13"
+        },
+        {
+            "Hospital-name": "Pvt Rathi Hospital, Najafgarh",
+            "Available-beds": "16"
+        },
+        {
+            "Hospital-name": "Pvt Park Hospital, Meera Bagh",
+            "Available-beds": "24"
+        },
+        {
+            "Hospital-name": "Pvt Bansal Global Hospital, Jahangirpuri",
+            "Available-beds": "14"
+        },
+        {
+            "Hospital-name": "Pvt Konark Hospital, Nangloi",
+            "Available-beds": "19"
+        },
+        {
+            "Hospital-name": "Pvt Mansaram Hospital, Nangloi",
+            "Available-beds": "17"
+        },
+        {
+            "Hospital-name": "Pvt Ansari Hospital, Sagarpur",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt PGH Hospital, Vikas Nagar",
+            "Available-beds": "29"
+        },
+        {
+            "Hospital-name": "Pvt BH SALVAS HOSPITAL",
+            "Available-beds": "24"
+        },
+        {
+            "Hospital-name": "Pvt Dr. Chaudhary Moral Hospital, Yamuna Vihar",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt Sanjeevan Medical Res. , Daryaganj",
+            "Available-beds": "17"
+        },
+        {
+            "Hospital-name": "Pvt Divine Multispeciality Hospital and Cancer Centre",
+            "Available-beds": "7"
+        },
+        {
+            "Hospital-name": "Pvt Garg Hospital, Karkardooma",
+            "Available-beds": "15"
+        },
+        {
+            "Hospital-name": "Pvt khanna hospital",
+            "Available-beds": "12"
+        },
+        {
+            "Hospital-name": "Pvt World Brain Center Hospital",
+            "Available-beds": "13"
+        },
+        {
+            "Hospital-name": "Pvt Highland Care Multispeciality Hospital",
+            "Available-beds": "14"
+        },
+        {
+            "Hospital-name": "Pvt Khandelwal Hospital And Urology Center",
+            "Available-beds": "9"
+        },
+        {
+            "Hospital-name": "Pvt Universal Centre of Health services, Kalkaji",
+            "Available-beds": "7"
+        },
+        {
+            "Hospital-name": "Pvt CBR Hospital",
+            "Available-beds": "7"
+        },
+        {
+            "Hospital-name": "Pvt Jeewan Moti Khera Hospital, Nangloi",
+            "Available-beds": "18"
+        },
+        {
+            "Hospital-name": "Pvt RS Grover Memorial Hospital",
+            "Available-beds": "11"
+        },
+        {
+            "Hospital-name": "Pvt Shree Hospital",
+            "Available-beds": "5"
+        },
+        {
+            "Hospital-name": "Pvt Apollo Spectra Hospitals ( Unit of Apollo Specialty Hospitals PVT.LTD",
+            "Available-beds": "17"
+        },
+        {
+            "Hospital-name": "Pvt C M PATEL HOSPITAL",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt RAM LAL KUNDAN LAL ORTHOPAEDIC HOSPITAL",
+            "Available-beds": "11"
+        },
+        {
+            "Hospital-name": "Pvt Sunrise Hospital",
+            "Available-beds": "6"
+        },
+        {
+            "Hospital-name": "Pvt Pt.RRM Hospital",
+            "Available-beds": "6"
+        },
+        {
+            "Hospital-name": "Pvt Astha Hospital",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt Patel Hospital",
+            "Available-beds": "10"
+        },
+        {
+            "Hospital-name": "Pvt Delhi multi speciality hospital",
+            "Available-beds": "5"
+        },
+        {
+            "Hospital-name": "Pvt Life RAYS HOSPITAL",
+            "Available-beds": "5"
+        },
+        {
+            "Hospital-name": "Pvt CAREWELL MEDICAL CENTRE",
+            "Available-beds": "5"
+        }
+    ],
+    "vaccine-availability": [
+        {
+            "vaccine-center": "G.B.PANT HOSPITAL DH SITE 2",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "53"
+        },
+        {
+            "vaccine-center": "LHMC CVC 1",
+            "vaccine-name": "COVAXIN",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "RML SITE 2",
+            "vaccine-name": "COVAXIN",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "CGHS DISPENSARY SOUTH AVENUE",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "MCW BABAR ROAD NDMC PHC",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "MCW SHISHU KALYAN KENDRA PHC",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "RML SITE 3",
+            "vaccine-name": "COVAXIN",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "PARLIAMENT HOUSE",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "MCW READING ROAD NDMC PHC",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "50"
+        },
+        {
+            "vaccine-center": "ICGS DELHI",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "LHMC CVC 2",
+            "vaccine-name": "COVAXIN",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "DGD PATIALA HOUSE COURT",
+            "vaccine-name": "COVISHIELD",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "ROUSE AVENUE COURT",
+            "vaccine-name": "COVAXIN",
+            "doses-available": "Booked"
+        },
+        {
+            "vaccine-center": "RML SITE 1",
+            "vaccine-name": "COVAXIN",
+            "doses-available": "Booked"
+        }
+    ]
+}
